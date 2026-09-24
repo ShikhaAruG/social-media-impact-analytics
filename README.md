@@ -20,6 +20,6 @@ This project analyzes the relationship between daily social media usage, sleep h
 ## Setup & Execution
 1. Clone this repository:
    ```bash
-   git clone <YOUR_REPOSITORY_LINK>
+   git clone https://github.com/ShikhaAruG/social-media-impact-analytics.git
 
    @ShikhaAruG
