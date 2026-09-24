@@ -22,4 +22,4 @@ This project analyzes the relationship between daily social media usage, sleep h
    ```bash
    git clone https://github.com/ShikhaAruG/social-media-impact-analytics.git
    
-@ShikhaAruG
+[@ShikhaAruG](https://github.com/ShikhaAruG)
